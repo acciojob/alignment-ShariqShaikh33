@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+td{
+	border: 1px solid black;
+	border-spacing: 1px;
+	padding: 1px;
+	width: 100px;
+	height: 20px;
+}
+#t11, #t21, #t31{
+	text-align: left;
+}
+#t12, #t22, #t32{
+	text-align: center;
+}
+#t13, #t23, #t33{
+	text-align: right;
+}
