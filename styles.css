@@ -1,8 +1,11 @@
 /*  your css code here. If applicable */
+
 .middle{
 	margin-right: auto;
 	margin-left: auto;
+	width: 100%;
 }
+
 h1{
 	text-align: center;
 }
@@ -14,12 +17,13 @@ td{
 	width: 100px;
 	height: 20px;
 }
-#t11, #t21, #t31{
+.left{
 	text-align: left;
 }
-#t12, #t22, #t32{
+.center{
 	text-align: center;
 }
-#t13, #t23, #t33{
+.right{
 	text-align: right;
 }
+
